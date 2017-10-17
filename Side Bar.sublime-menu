@@ -25,6 +25,16 @@
             },
 
             {
+                "id": "cos",
+                "caption": "Command Object Spec",
+                "command": "sublime_tmpl",
+                "args": {
+                    "type": "command_object_spec",
+                    "syntax": "ruby",
+                }
+            },
+
+            {
                 "id": "rs",
                 "caption": "Request Spec",
                 "command": "sublime_tmpl",
